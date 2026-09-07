@@ -49,8 +49,8 @@ I am a Senior Backend Developer with **8+ years of experience** building and ope
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahadovic&show_icons=true&theme=radical&hide_border=true" alt="Bahadovic's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadovic&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=bahadovic&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=bahadovic&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <!--
