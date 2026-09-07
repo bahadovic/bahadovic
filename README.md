@@ -46,13 +46,6 @@ I am a Senior Backend Developer with **8+ years of experience** building and ope
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bahadovic&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=bahadovic&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
 <!--
 **bahadovic/bahadovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
