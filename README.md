@@ -70,7 +70,7 @@ I am a Senior Backend Developer with **8+ years of production experience** archi
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahadovic&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=bahadovic&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150"/>
   <img src="https://streak-stats.demolab.com/?user=bahadovic&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </div>
 
